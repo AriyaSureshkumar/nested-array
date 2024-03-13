@@ -1,0 +1,31 @@
+[
+{
+    "visible": true,
+    "colors": {
+        "data": {
+            "darkest": "Black",
+            "lightest": "white",
+            "neutral": "Grey",
+            "spectrum": {
+                "1": "Violet",
+                "2": "Indigo",
+                "3": "Blue",
+                "4": "Green",
+                "5": "Yellow",
+                "6": "Orange",
+                "7": "Red"
+            },
+            "default": "Grey",
+            "primary": "Blue",
+            "danger": "Red",
+            "warning": "Yellow",
+            "success": "Green",
+            "RGB": {
+                "r": "Red",
+                "g": "Green",
+                "b": "Blue"
+            }
+        }
+    }
+}
+]

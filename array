@@ -3,6 +3,11 @@
     "visible": true,
     "colors": {
        " value":" thousand one",
+        "test" :{
+                "number" :" one",
+                "number" :" two",
+                 "number" :" three",
+                }
         "data": {
             "darkest": "Black",
             "lightest": "white",

@@ -2,6 +2,7 @@
 {
     "visible": true,
     "colors": {
+       " colours1":" thousand one",
         "data": {
             "darkest": "Black",
             "lightest": "white",
